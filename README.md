@@ -1,0 +1,2 @@
+# SQL-Antipatterns
+SQL Antipatterns
