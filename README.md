@@ -1,2 +1,5 @@
-# SQL-Antipatterns
-SQL Antipatterns
+# SQL-Antipatterns : 개발자가 알아야 할 25가지 SQL 함정과 해법
+
+- 저자 : 빌 카윈
+- 옮긴이 : 윤성준
+- 출판사 : 인사이트
